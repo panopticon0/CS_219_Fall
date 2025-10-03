@@ -1,3 +1,5 @@
+//Aiden Tjahjono
+//9/30/2023
 #include "helpers.h"
 #include <iostream>
 #include <string>
@@ -11,7 +13,6 @@ bool isBlank(string line);
 
 int main() {
     readFile("pp1_input.txt");
-    cout << bitNot(0xFFFFFFFFF);
     return 0;
 }
 
